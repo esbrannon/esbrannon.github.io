@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "esbrannon",
-    "repositoryName": "esbrannon.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Saga"
-  }
-}
+{"meta":{"username":"esbrannon","repositoryName":"esbrannon.github.io","branch":"master"},"site":{"title":"Health Infobong","description":"A blog about public health, medicine, and data science. Originally inspired by the word 'norebong' or singing room in Korean essentially a health information room. An infobong is also apparently defined as a 'laptop or similar internet-enabled device left out around the home for general use by guests'.  ","url":"https://esbrannon.github.io"},"socialnetwork":{"email":"esbrannon@gmail.com","twitter":"https://twitter.com/elliottbrannon","linkedin":"https://www.linkedin.com/pub/elliott-brannon/9/668/466","instagram":"https://instagram.com/elliottbrannon","github":"esbrannon"},"theme":{"name":"Saga","url":"//esbrannon.github.io/themes/Saga"}}
