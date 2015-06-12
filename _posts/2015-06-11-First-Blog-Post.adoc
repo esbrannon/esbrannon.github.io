@@ -1,8 +1,6 @@
-= Hi
-:hp-image: http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Send-email.svg/750px-Send-email.svg.png
+= First Blog Post
 
 
 
-This is my blog post, it's pretty interesting.\.
-
+My first blog post coming soon.
 
