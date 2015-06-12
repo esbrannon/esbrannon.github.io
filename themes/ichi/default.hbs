@@ -66,13 +66,13 @@
     <div class="vertical">
         <div class="site-head-content inner">
             <ul class="side-nav blog-menu show-for-large-up">
-                <li><a class="fi-home" href="{{@blog.url}}"></a></li>
                 <li><a class="fi-torso" href="{{@blog.url}}/about"></a></li>
-                <li><a class="fi-mail" href="{{@blog.url}}/projects"></a></li>
+                <li><a class="fi-lightbulb" href="{{@blog.url}}/projects"></a></li>
                 <li><a class="fi-mail" href="{{@blog.url}}/contact"></a></li>
             </ul>
             {{#if @blog.logo}}<a class="blog-logo" href="{{@blog.url}}"><img alt="{{@blog.title}}" src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
-            <h1 class="blog-title">{{@blog.title}}</h1>
+            <a href="{{@blog.url}}">
+                <h1 class="blog-title">{{@blog.title}}</h1></a>
             <hr>
             <p class="blog-description">{{@blog.description}}</p>
             <div class="blog-network">
