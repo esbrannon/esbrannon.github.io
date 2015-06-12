@@ -34,7 +34,7 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 <p>Would this solve the problem?</p>
 </div>
 </div>
-</div>
+
 ++++
 
 == Drawbacks of Privacy
