@@ -2,5 +2,7 @@
 :hp-image: http://www.macfixer.com/images/email.svg
 
 
+:image: http://www.macfixer.com/images/email.svg
+
 My first blog post coming soon.
 
