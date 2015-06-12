@@ -23,13 +23,13 @@ Are there other reasons that privacy is important today?
 
 [sidebar]
 .Extending Privacy
---
+----
 Let’s consider the benefits of extending privacy on a characteristic which is relatively difficult for certain groups to hide: sex at birth. For the majority of individuals sex at birth and gender identity are the same, and (at least in English) common names identify the sex of an individual. Would it be beneficial to keep sex at birth private? 
 
 The link:http://www.vox.com/cards/gender-wage-gap-men-women-pay[gender wage gap] is well known, and one contributing factor of the wage gap is the fact the women consistently negotiate lower salaries than men. link:http://tpr.org/post/why-women-dont-ask-more-money[Research] suggests, however, not that women are worse negotiators, but they are intuitively aware of social norms that prevent them from negotiating: the fact that women who negotiate fiercely are unwelcome in certain business environments discourages women from negotiating. Women understood that if they did negotiate, they might be penalized for this socially unacceptable behavior. If somehow women were able to keep their sex private, they would no longer need to be concerned about the social norms which force them to negotiate less.
 
 Would this solve the problem?
---
+----
 
 == Drawbacks of Privacy
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
