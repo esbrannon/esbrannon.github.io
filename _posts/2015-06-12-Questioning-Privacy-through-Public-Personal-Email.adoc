@@ -1,0 +1,29 @@
+= Questioning Privacy through Public Personal Email
+
+After watching an interview with Fred Trotter on the EdX course Medicine in the Digital Age, I began thinking about why privacy is important. Fred discussed the ironic fact that the hospital gown is the antithesis of privacy, but providers are often prevented from sharing important medical information due to concerns about privacy (see tweet below). 
+
++++++
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Ludicrous to tell a pt in a gown that our job is to protect his privacy <a href="https://twitter.com/fredtrotter">@fredtrotter</a> <a href="https://twitter.com/hashtag/MedX?src=hash">#MedX</a> <a href="https://twitter.com/hashtag/HIPAA?src=hash">#HIPAA</a> <a href="https://twitter.com/hashtag/Healthcare?src=hash">#Healthcare</a> <a href="https://twitter.com/hashtag/data?src=hash">#data</a> <a href="http://t.co/iQYBXM1CGD">pic.twitter.com/iQYBXM1CGD</a></p>&mdash; Hugo Campos (@HugoOC) <a href="https://twitter.com/HugoOC/status/508286212092612609">September 6, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
++++++
+
+In healthcare settings this loss of privacy is necessary to perform many medical procedures – consider a procedure which requires anesthesia (such as a colonoscopy), pretty much all physical privacy is lost. We assume that privacy is important except when it’s necessary to give it up, but could we benefit from questioning our default assumption that more privacy is always better?
+
+== Why Privacy is Important
+One reason privacy is important is because information can be used to discriminate against individuals in certain groups. For example, before the Americans with Disabilities Act of 1990 an individual could be fired for having a disability, including HIV/AIDS, after an employer discovered this private information. Currently, many states still do not have legislation which protects individuals from employment discrimination based on sexual orientation or gender identity (http://www.hrc.org/resources/entry/employment-non-discrimination-act). By keeping certain information private, individuals can retain their job, even if their employer discriminates against certain groups to which they belong.
+
+Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure. 
+
+Are there other reasons that privacy is important today? Please comment below or tweet at me with other reasons privacy is important.
+
+== Drawbacks of Privacy
+A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
+Various types of personal information are often associated with privacy concerns. Information plays an important role in the decision-action process, which can lead to problems in terms of privacy and availability. First, it allows people to see all the options and alternatives available. Secondly, it allows people to choose which of the options would be best for a certain situation.” 
+Privacy prevents information flow and without information, individuals can not choose the best option for certain situations. The Affordable Care Act reduced privacy (increased transparency) of healthcare costs and will increase the ability of consumers to choose the most cost effective health care solution. Hopefully this will reduce overall healthcare costs in the US. (https://www.wm.edu/as/publicpolicy/wm_policy_review/Archives/Volume%204%20Issue%202/MuirAlessiKing_s13f.pdf).
+
+Another drawback of privacy comes from the area of healthcare research (which is why I am primarily interested in it). If healthcare data was not private, researchers could link together an unimaginable number of data sets and investigate a wide range of diseases. The number of research questions scientists could address and the strength of the analyses would no doubt lead to a healthier nation and world. Having lived in Asia for several years, I wonder if this idea of privacy would have developed in more communal cultures if the strong western influence was absent. More communal cultures understand that sacrifice of privacy/individual identity can lead to a stronger community.  
+
+== Email Privacy
+As a former government employee, I was aware that all my work emails might one day be publicly available (although the feasibility of accessing these emails is questionable). In fact, I encouraged management to adopt an open email system (see Stripe- https://stripe.com/blog/email-transparency) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed. 
+
+This thought process led me to my current idea: public personal email. As a proponent of transparency and openness, I wonder how making my personal email public would impact my life. In the era of the smartphone, as emails and tweets are posted 24 hours/day, the lines between work-time and personal-time are blurring. More and more of individuals’ lives are becoming public and as we post more and more (and even live stream our lives - https://meerkatapp.co/) we seem to be unintentionally questioning the usefulness of privacy. Email is inherently insecure already (https://luxsci.com/blog/the-case-for-email-security.html), so would making it public be such an issue? I intend to explore the practical implications of public personal email in my next blog post.
