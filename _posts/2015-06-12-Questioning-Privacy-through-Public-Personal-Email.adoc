@@ -23,7 +23,7 @@ Are there other reasons that privacy is important today?
 
 
 ++++
-<div class="sidebarblock" style="border:solid margin:20pt">
+<div class="sidebarblock" style="border:solid, margin:20pt">
 <div class="content">
 <div class="title"><h4><center>Extending Privacy</h4></center></div>
 <p>
