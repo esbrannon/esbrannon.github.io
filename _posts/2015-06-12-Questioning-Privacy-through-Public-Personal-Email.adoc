@@ -13,14 +13,14 @@ After watching an interview with Fred Trotter on the EdX course link:https://www
 </center>
 +++++
 
-In healthcare settings this loss of privacy is necessary to perform many medical procedures – consider a procedure which requires anesthesia (such as a colonoscopy), pretty much all physical privacy is lost. We assume that privacy is important except when it’s necessary to give it up, but could we benefit from questioning our default assumption that more privacy is always better?
+In healthcare settings this loss of privacy is necessary to perform many medical procedures – consider a procedure which requires anesthesia (such as a colonoscopy); pretty much all physical privacy is lost. We assume that privacy is important except when it’s necessary to give it up, but could we benefit from questioning our default assumption that more privacy is always better?
 
 == Why Privacy is Important
 One reason privacy is important is because information can be used to discriminate against individuals in certain groups. For example, before the Americans with Disabilities Act of 1990 an individual could be fired for having a disability, including HIV/AIDS, after an employer discovered this private information. Currently, many states still do not have legislation which protects individuals from employment discrimination based on link:http://www.hrc.org/resources/entry/employment-non-discrimination-act[sexual orientation or gender identity]. By keeping certain information private, individuals can retain their job, even if their employer discriminates against certain groups to which they belong.
 
-Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure. 
+Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure.
 
-Are there other reasons that privacy is important today? Please comment below or tweet at me with other reasons privacy is important.
+Are there other reasons that privacy is important today? 
 
 [sidebar]
 .Extending Privacy
@@ -28,12 +28,18 @@ Are there other reasons that privacy is important today? Please comment below or
 Let’s consider the benefits of extending privacy on a characteristic which is relatively difficult for certain groups to hide: sex at birth. For the majority of individuals sex at birth and gender identity are the same, and (at least in English) common names identify the sex of an individual. Would it be beneficial to keep sex at birth private? 
 The link:http://www.vox.com/cards/gender-wage-gap-men-women-pay[gender wage gap] is well known, and one contributing factor to the wage gap is the fact the women consistently negotiate lower salaries than men. link:http://tpr.org/post/why-women-dont-ask-more-money[Research] suggests, however, not that women are worse negotiators, but they are intuitively aware of social norms that prevent them from negotiating: the fact that women who negotiate fiercely are unwelcome in certain business environments discourages women from negotiating, otherwise they might be penalized for this socially unacceptable behavior. If somehow women were able to keep their sex private, they would no longer need to be concerned about the social norms which force them to negotiate less.
 
-Would this be useful?
+Would this solve the problem?
 --
 
 == Drawbacks of Privacy
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
-Various types of personal information are often associated with privacy concerns. Information plays an important role in the decision-action process, which can lead to problems in terms of privacy and availability. First, it allows people to see all the options and alternatives available. Secondly, it allows people to choose which of the options would be best for a certain situation.” 
+
+.Privacy
+[quote, In Wikipedia&#44 The Free Encyclopedia., Privacy&#44 Retrieved 03:52&#44 June 12&#44 2015]
+____
+Various types of personal information are often associated with privacy concerns. Information plays an important role in the decision-action process, which can lead to problems in terms of privacy and availability. First, it allows people to see all the options and alternatives available. Secondly, it allows people to choose which of the options would be best for a certain situation...
+____
+
 Privacy prevents information flow and without information, individuals can not choose the best option for certain situations. The Affordable Care Act reduced privacy (increased transparency) of healthcare costs and will increase the ability of consumers to choose the most cost effective health care solution. Hopefully this will reduce overall link:https://www.wm.edu/as/publicpolicy/wm_policy_review/Archives/Volume%204%20Issue%202/MuirAlessiKing_s13f.pdf[healthcare costs] in the US.
 
 Another drawback of privacy comes from the area of healthcare research (which is why I am primarily interested in it). If healthcare data was not private, researchers could link together an unimaginable number of data sets and investigate a wide range of diseases. The number of research questions scientists could address and the strength of the analyses would no doubt lead to a healthier nation and world. Having lived in Asia for several years, I wonder if this idea of privacy would have developed in more communal cultures if the strong western influence was absent. More communal cultures understand that sacrifice of privacy/individual identity can lead to a stronger community.  
