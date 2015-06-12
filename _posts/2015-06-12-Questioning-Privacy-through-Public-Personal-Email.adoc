@@ -2,9 +2,8 @@
 
 :hp-tags: Email, Privacy, Open Source
 
-::
 
-After watching an interview with Fred Trotter on the EdX course link:https://www.edx.org/course/medicine-digital-age-ricex-meddigx-0[Medicine in the Digital Age], I began thinking about why privacy is important. Fred discussed the ironic fact that a hospital gown is the antithesis of privacy, but providers are often prevented from sharing important medical information due to concerns about privacy (see tweet below). 
+After watching an interview with Fred Trotter on the EdX course link:https://www.edx.org/course/medicine-digital-age-ricex-meddigx-0[Medicine in the Digital Age], I began thinking about why privacy is important. Fred discussed the ironic fact that a hospital gown the antithesis of privacy, but providers are often prevented from sharing important medical information due to concerns about privacy (see tweet below). 
 
 +++++
 <center>
@@ -26,7 +25,8 @@ Are there other reasons that privacy is important today?
 .Extending Privacy
 --
 Let’s consider the benefits of extending privacy on a characteristic which is relatively difficult for certain groups to hide: sex at birth. For the majority of individuals sex at birth and gender identity are the same, and (at least in English) common names identify the sex of an individual. Would it be beneficial to keep sex at birth private? 
-The link:http://www.vox.com/cards/gender-wage-gap-men-women-pay[gender wage gap] is well known, and one contributing factor to the wage gap is the fact the women consistently negotiate lower salaries than men. link:http://tpr.org/post/why-women-dont-ask-more-money[Research] suggests, however, not that women are worse negotiators, but they are intuitively aware of social norms that prevent them from negotiating: the fact that women who negotiate fiercely are unwelcome in certain business environments discourages women from negotiating, otherwise they might be penalized for this socially unacceptable behavior. If somehow women were able to keep their sex private, they would no longer need to be concerned about the social norms which force them to negotiate less.
+
+The link:http://www.vox.com/cards/gender-wage-gap-men-women-pay[gender wage gap] is well known, and one contributing factor of the wage gap is the fact the women consistently negotiate lower salaries than men. link:http://tpr.org/post/why-women-dont-ask-more-money[Research] suggests, however, not that women are worse negotiators, but they are intuitively aware of social norms that prevent them from negotiating: the fact that women who negotiate fiercely are unwelcome in certain business environments discourages women from negotiating. Women understood that if they did negotiate, they might be penalized for this socially unacceptable behavior. If somehow women were able to keep their sex private, they would no longer need to be concerned about the social norms which force them to negotiate less.
 
 Would this solve the problem?
 --
@@ -42,9 +42,21 @@ ____
 
 Privacy prevents information flow and without information, individuals can not choose the best option for certain situations. The Affordable Care Act reduced privacy (increased transparency) of healthcare costs and will increase the ability of consumers to choose the most cost effective health care solution. Hopefully this will reduce overall link:https://www.wm.edu/as/publicpolicy/wm_policy_review/Archives/Volume%204%20Issue%202/MuirAlessiKing_s13f.pdf[healthcare costs] in the US.
 
-Another drawback of privacy comes from the area of healthcare research (which is why I am primarily interested in it). If healthcare data was not private, researchers could link together an unimaginable number of data sets and investigate a wide range of diseases. The number of research questions scientists could address and the strength of the analyses would no doubt lead to a healthier nation and world. Having lived in Asia for several years, I wonder if this idea of privacy would have developed in more communal cultures if the strong western influence was absent. Individuals from more communal cultures may find it easier to understand that sacrifice of privacy or individual identity can lead to a stronger community.  
+Another drawback of privacy comes from the area of healthcare research (which is why I am primarily interested in it). If healthcare data was not private, researchers could link together an unimaginable number of data sets and investigate a wide range of diseases. The number of research questions scientists could address and the strength of the analyses would no doubt lead to a healthier nation and world.
+
+Having lived in Asia for several years, I wonder if this idea of privacy would have developed in more communal cultures if the strong western influence was absent. Individuals from more communal cultures may find it easier to understand that sacrifice of privacy or individual identity can lead to a stronger community.  
 
 == Email Privacy
-As a former government employee, I was aware that all my work emails might one day be publicly available (although the feasibility of accessing these emails is questionable); this policy was also recently highlighted in link:http://www.reuters.com/article/2015/03/11/us-usa-politics-clinton-idUSKBN0M61C220150311[Hillary Clinton's email scandal]. In fact, I encouraged management to adopt an open email system (see link:https://stripe.com/blog/email-transparency[Stripe]) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed. 
+As a former government employee, I was aware that all my work emails might one day be publicly available (although the feasibility of accessing these emails is questionable). This policy was also recently highlighted in link:http://www.nationalreview.com/article/414773/latest-clinton-scandal-quintessentially-hillary-charles-c-w-cooke[Hillary Clinton's email scandal].
+
+++++
+<center>
+<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/465796192?et=P9OJ1QelRuRuruZFEpJdGQ&viewMoreLink=off&sig=JQr-_f_iys96_uDDpPd0IGewve96FU_Chv0YgKKi98I=" width="445" height="297" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/465796192" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">View image</a> | <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div></center>
+<br>
+++++
+
+
+
+In fact, I encouraged my former management team to adopt an open email system (see link:https://stripe.com/blog/email-transparency[Stripe]) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed.
 
 This thought process led me to my current idea: public personal email. As a proponent of transparency and openness, I wonder how making my personal email public would impact my life. In the era of the smartphone, as emails and tweets are posted 24 hours/day, the lines between work-time and personal-time are blurring. More and more of individuals’ lives are becoming public and as we post more and more (and even live link:https://meerkatapp.co/[stream our lives]) we seem to be unintentionally questioning the usefulness of privacy. link:https://luxsci.com/blog/the-case-for-email-security.html[Email is insecure] already, so would making it public be such an issue? I intend to explore the practical implications of public personal email in my next blog post.
