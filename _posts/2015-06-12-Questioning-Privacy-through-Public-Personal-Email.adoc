@@ -23,9 +23,9 @@ Are there other reasons that privacy is important today?
 
 
 ++++
-<div class="sidebarblock">
+<div class="sidebarblock" style="border:solid">
 <div class="content">
-<div class="title">Extending Privacy</div>
+<div class="title"><h4><center>Extending Privacy</h4></center></div>
 <p>
 Let’s consider the benefits of extending privacy on a characteristic which is relatively difficult for certain groups to hide: sex at birth. For the majority of individuals sex at birth and gender identity are the same, and (at least in English) common names identify the sex of an individual. Would it be beneficial to keep sex at birth private?</p>
 
