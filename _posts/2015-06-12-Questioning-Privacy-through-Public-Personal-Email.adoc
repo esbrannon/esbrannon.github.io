@@ -15,15 +15,12 @@ After watching an interview with Fred Trotter on the EdX course link:https://www
 In healthcare settings this loss of privacy is necessary to perform many medical procedures – consider a procedure which requires anesthesia (such as a colonoscopy); pretty much all physical privacy is lost. We assume that privacy is important except when it’s necessary to give it up, but could we benefit from questioning our default assumption that more privacy is always better?
 
 == Why Privacy is Important
+
+
 One reason privacy is important is because information can be used to discriminate against individuals in certain groups. For example, before the Americans with Disabilities Act of 1990 an individual could be fired for having a disability, including HIV/AIDS, after an employer discovered this private information. Currently, many states still do not have legislation which protects individuals from employment discrimination based on link:http://www.hrc.org/resources/entry/employment-non-discrimination-act[sexual orientation or gender identity]. By keeping certain information private, individuals can retain their job, even if their employer discriminates against certain groups to which they belong.
 
-Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure.
-
-Are there other reasons that privacy is important today? 
-
-
 ++++
-<div class="sidebarblock" style="border:solid; margin:20pt">
+<div class="sidebarblock" style="width:50%;border:solid; margin:20pt; padding:20pt; float:right">
 <div class="content">
 <div class="title"><h4><center>Extending Privacy</h4></center></div>
 <p>
@@ -36,6 +33,13 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 </div>
 
 ++++
+
+
+Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure.
+
+Are there other reasons that privacy is important today? 
+
+
 
 == Drawbacks of Privacy
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
