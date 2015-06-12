@@ -20,7 +20,7 @@ In healthcare settings this loss of privacy is necessary to perform many medical
 One reason privacy is important is because information can be used to discriminate against individuals in certain groups. For example, before the Americans with Disabilities Act of 1990 an individual could be fired for having a disability, including HIV/AIDS, after an employer discovered this private information. Currently, many states still do not have legislation which protects individuals from employment discrimination based on link:http://www.hrc.org/resources/entry/employment-non-discrimination-act[sexual orientation or gender identity]. By keeping certain information private, individuals can retain their job, even if their employer discriminates against certain groups to which they belong.
 
 ++++
-<div class="sidebarblock" style="border:solid; margin:10pt; padding:10pt>
+<div class="sidebarblock" style="border:solid; margin:10pt; padding:10pt">
 <div class="content">
 <div class="title"><h4><center>Extending Privacy</h4></center></div>
 <p>
