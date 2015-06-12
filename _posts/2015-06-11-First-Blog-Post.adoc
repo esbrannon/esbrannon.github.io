@@ -1,8 +1,5 @@
 = First Blog Post
 :hp-image: http://www.macfixer.com/images/email.svg
 
-
-image:http://i.forbesimg.com/media/lists/companies/google_416x416.jpg[]
-
 My first blog post coming soon.
 
