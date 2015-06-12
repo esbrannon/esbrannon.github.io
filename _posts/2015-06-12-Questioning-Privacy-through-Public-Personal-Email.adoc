@@ -44,10 +44,15 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
 
 .Privacy
-[quote, In Wikipedia&#44 The Free Encyclopedia., Retrieved 03:52&#44 June 12&#44 2015]
 ____
 Various types of personal information are often associated with privacy concerns. Information plays an important role in the decision-action process, which can lead to problems in terms of privacy and availability. First, it allows people to see all the options and alternatives available. Secondly, it allows people to choose which of the options would be best for a certain situation...
 ____
+++++
+<div style="text-align:right">
+<p>-- In Wikipedia, The Free Encyclopedia </p>
+<p>
+Retrieved 03:52, June 12, 2015</p></div><br>
+++++
 
 Privacy prevents information flow and without information, individuals can not choose the best option for certain situations. The Affordable Care Act reduced privacy (increased transparency) of healthcare costs and will increase the ability of consumers to choose the most cost effective health care solution. Hopefully this will reduce overall link:https://www.wm.edu/as/publicpolicy/wm_policy_review/Archives/Volume%204%20Issue%202/MuirAlessiKing_s13f.pdf[healthcare costs] in the US.
 
