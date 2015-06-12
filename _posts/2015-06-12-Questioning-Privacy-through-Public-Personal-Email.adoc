@@ -2,7 +2,7 @@
 
 :hp-tags: Email, Privacy, Open Source
 
-
+[.lead]
 After watching an interview with Fred Trotter on the EdX course link:https://www.edx.org/course/medicine-digital-age-ricex-meddigx-0[Medicine in the Digital Age], I began thinking about why privacy is important. Fred discussed the ironic fact that a hospital gown the antithesis of privacy, but providers are often prevented from sharing important medical information due to concerns about privacy (see tweet below). 
 
 +++++
