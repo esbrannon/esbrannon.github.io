@@ -19,7 +19,7 @@ In healthcare settings this loss of privacy is necessary to perform many medical
 
 One reason privacy is important is because information can be used to discriminate against individuals in certain groups. For example, before the Americans with Disabilities Act of 1990 an individual could be fired for having a disability, including HIV/AIDS, after an employer discovered this private information. Currently, many states still do not have legislation which protects individuals from employment discrimination based on link:http://www.hrc.org/resources/entry/employment-non-discrimination-act[sexual orientation or gender identity]. By keeping certain information private, individuals can retain their job, even if their employer discriminates against certain groups to which they belong.
 
-Privacy is also important because our identity could not be secured otherwise. From banking account information to email, we currently need privacy to ensure that our identities (and financial assets) remain secure.
+Privacy is also important because our identity could not be secured if individuals were unable to keep some of their information private. From banking account information to email passwords, we currently need privacy to ensure that our identities (and financial assets) remain secure.
 
 Are there other reasons that privacy is important today? 
 
@@ -37,8 +37,6 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 </div>
 
 ++++
-
-
 
 == Drawbacks of Privacy
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
