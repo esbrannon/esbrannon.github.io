@@ -21,7 +21,7 @@ Privacy is also important because our identity could not be secured otherwise. F
 
 Are there other reasons that privacy is important today? 
 
-****
+====
 
 Extending Privacy
 
@@ -31,7 +31,7 @@ The link:http://www.vox.com/cards/gender-wage-gap-men-women-pay[gender wage gap]
 
 Would this solve the problem?
 
-****
+====
 
 == Drawbacks of Privacy
 A particularly insightful paragraph from Wikipedia discusses the drawbacks of privacy as part of the decision-action process: 
