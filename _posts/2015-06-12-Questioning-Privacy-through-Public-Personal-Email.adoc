@@ -67,8 +67,6 @@ As a former government employee, I was aware that all my work emails might one d
 <br>
 ++++
 
-
-
-In fact, I encouraged my former management team to adopt an open email system (see link:https://stripe.com/blog/email-transparency[Stripe]) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed.
+Knowing this fact, I encouraged my former management team to adopt an open email system (see link:https://stripe.com/blog/email-transparency[Stripe]) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed.
 
 This thought process led me to my current idea: public personal email. As a proponent of transparency and openness, I wonder how making my personal email public would impact my life. In the era of the smartphone, as emails and tweets are posted 24 hours/day, the lines between work-time and personal-time are blurring. More and more of individuals’ lives are becoming public and as we post more and more (and even live link:https://meerkatapp.co/[stream our lives]) we seem to be unintentionally questioning the usefulness of privacy. link:https://luxsci.com/blog/the-case-for-email-security.html[Email is insecure] already, so would making it public be such an issue? I intend to explore the practical implications of public personal email in my next blog post.
