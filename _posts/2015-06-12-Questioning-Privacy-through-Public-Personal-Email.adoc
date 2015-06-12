@@ -49,9 +49,8 @@ Various types of personal information are often associated with privacy concerns
 ____
 ++++
 <div style="text-align:right">
-<p>-- In Wikipedia, The Free Encyclopedia </p>
-<p>
-Retrieved 03:52, June 12, 2015</p></div><br>
+-- In Wikipedia, The Free Encyclopedia 
+Retrieved 03:52, June 12, 2015</div><br>
 ++++
 
 Privacy prevents information flow and without information, individuals can not choose the best option for certain situations. The Affordable Care Act reduced privacy (increased transparency) of healthcare costs and will increase the ability of consumers to choose the most cost effective health care solution. Hopefully this will reduce overall link:https://www.wm.edu/as/publicpolicy/wm_policy_review/Archives/Volume%204%20Issue%202/MuirAlessiKing_s13f.pdf[healthcare costs] in the US.
