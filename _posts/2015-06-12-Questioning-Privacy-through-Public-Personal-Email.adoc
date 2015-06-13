@@ -39,13 +39,12 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 
 ++++
 
-[sidebar]
+****
 .Related information
---
 This is aside text.
 
 It is used to present information related to the main content.
---
+****
 
 
 == Drawbacks of Privacy
