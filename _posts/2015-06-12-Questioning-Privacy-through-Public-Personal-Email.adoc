@@ -1,7 +1,7 @@
 = Questioning Privacy through Public Personal Email
 
 :hp-tags: Email, Privacy, Open Source
-:hp-image: http://forgotten5k.org/wp-content/uploads/2015/02/email-icon-transparent-background-png.png
+:hp-image: http://png-1.findicons.com/files/icons/1580/devine_icons_part_2/128/mail_2.png
 
 
 ////
