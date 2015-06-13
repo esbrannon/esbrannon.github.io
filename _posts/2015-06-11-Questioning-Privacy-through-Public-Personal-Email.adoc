@@ -1,5 +1,8 @@
 = Questioning Privacy through Public Personal Email
 
+:published_at: 2015-06-11
+
+
 :hp-tags: Email, Privacy, Open Source
 
 :hp-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Email.svg/640px-Email.svg.png
