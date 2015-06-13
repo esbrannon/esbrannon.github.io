@@ -1,6 +1,6 @@
 = EdX: Medicine in the Digital Age
 
-:published_at: 2015-06-13
+:published_at: 2015-06-12
 
 :hp-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Digital_Health_Infographic.jpg/1024px-Digital_Health_Infographic.jpg
 
