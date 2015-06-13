@@ -1,7 +1,7 @@
 = Questioning Privacy through Public Personal Email
 
 :hp-tags: Email, Privacy, Open Source
-:hp-image: http://www.afscme.org/blog/summary-image/email.jpg
+:hp-image: http://pixabay.com/get/de46fbbd7115c5541c92/1434165261/mail-297542_1280.png
 
 
 ////
