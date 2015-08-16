@@ -1,8 +1,20 @@
-= EdX: Medicine in the Digital Age
+= Visioning
 
-:published_at: 2015-06-12
+:published_at: 2015-08-16
 
-:hp-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Digital_Health_Infographic.jpg/1024px-Digital_Health_Infographic.jpg
+Starting medical school at the University of Michigan, we were repeatedly told that rather than 'Orientation' we should refer to the two week period before the traditional medical curriculum began as 'Launch'. Our Launch was filled with leadership development, a few traditional orientation seminars, and discussions on patient-family centered care. Some of us were skeptical this would provide an adequate foundation for our medical education while others of us completely embraced the new model. During this period we were also introduced to our Doctoring groups: groups which we will meet with for the next four years and discuss topics ranging from professionalism and ethics to taking a patient history. One of our leadership exercises in which we participated was called Visioning. Through visioning, a group or individual can narrate their goals for the future. The time period is variable, it can be 1 year, 5 years, 10 years, etc. in the future and rather than simply creating a bullet point of the goals to be achieved after this time, a story is written. To vision, we used the 'hot pen' technique: writing without stopping for 15 minutes. Below is my vision for my Doctoring group, unedited:
 
-I recently finished this course from EdX
 
+=== Vision: August 15, 2016
+
+DRAFT
+ 
+Our Doctoring group just came back to Ann Arbor after an amazing summer. Some of us stayed around campus, working with our mentors, and establishing long lasting relationships, while other traveled as far as Asia, Africa, and even Antarctica (they need doctors there too!). I'm so excited to hear about what everyone has done and share my experiences (working on my research in Machine Learning) with the group.
+
+We'd become so close over the year we spent together and greeted each other with hugs all around. We couldn't wait for school to start to see each other, so we're having a potluck style dinner and I'm hosting this time. The aromas of food are wonderful and the convsersations are jovial. Suddenly we all stop. "It's time," someone says.
+
+We have become accustomed to an exercise called flooding where we go around the room, one at a time, and everyone says al the good things, things they like about the person. It is an amazing and humbling experience, one that can be uncomfortable in a good way.
+
+We all have so many positive things to say about each other that it seems like it is taking forever, but none of us mind.
+
+We're excited about our next year together and in addtion to meeting to discuss our recent experiences, we also want to vision for our future. We want to repeat this exercise because we've grown so much over the past year and have learned a lot about each other.
