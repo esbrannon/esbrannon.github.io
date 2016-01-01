@@ -42,12 +42,6 @@ Let’s consider the benefits of extending privacy on a characteristic which is 
 
 ++++
 
-****
-.Related information
-This is aside text.
-
-It is used to present information related to the main content.
-****
 
 
 == Drawbacks of Privacy
@@ -60,7 +54,8 @@ ____
 ++++
 <div style="text-align:right">
 -- In Wikipedia, The Free Encyclopedia 
-<div style="margin:10px"></div>
+<div style="margin:10px"></div></div><br>
+++++
 
 Another drawback of privacy comes from the area of healthcare research (which is why I am primarily interested in it). If healthcare data was not private, researchers could link together an unimaginable number of data sets and investigate a wide range of diseases. The number of research questions scientists could address and the strength of the analyses would no doubt lead to a healthier nation and world.
 
@@ -69,11 +64,6 @@ Having lived in Asia for several years, I wonder if this idea of privacy would h
 == Email Privacy
 As a former government employee, I was aware that all my work emails might one day be publicly available (although the feasibility of accessing these emails is questionable). This policy was also recently highlighted in link:http://www.nationalreview.com/article/414773/latest-clinton-scandal-quintessentially-hillary-charles-c-w-cooke[Hillary Clinton's email scandal].
 
-++++
-<center>
-<div class="getty embed image" style="background-color:#fff;display:inline-block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#a7a7a7;font-size:11px;width:100%;max-width:445px;"><div style="overflow:hidden;position:relative;height:0;padding:66.666667% 0 0 0;width:100%;"><iframe src="//embed.gettyimages.com/embed/465796192?et=P9OJ1QelRuRuruZFEpJdGQ&viewMoreLink=off&sig=JQr-_f_iys96_uDDpPd0IGewve96FU_Chv0YgKKi98I=" width="445" height="297" scrolling="no" frameborder="0" style="display:inline-block;position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div><p style="margin:0;"></p><div style="padding:0;margin:0 0 0 10px;text-align:left;"><a href="http://www.gettyimages.com/detail/465796192" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">View image</a> | <a href="http://www.gettyimages.com" target="_blank" style="color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;">gettyimages.com</a></div></div></center>
-<br>
-++++
 
 Knowing this fact, I encouraged my former management team to adopt an open email system (see link:https://stripe.com/blog/email-transparency[Stripe]) which would hopefully lead to faster information flow and fewer meetings. I suggested an opt-in system, so an email which an employee wanted to be private, could remain so, but that the majority of emails would be archived in a public data base that could be sorted and searchable. This would be an enormous trove of data that could easily be accessed.
 
